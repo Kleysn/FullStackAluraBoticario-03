@@ -1,4 +1,4 @@
-# Segundo Projeto formação Full Stack Alura + Grupo Boticario: Construindo um site Responsivo da Alura
+# Terceiro Projeto formação Full Stack Alura + Grupo Boticario: Construindo um site Responsivo da Alura
 
 ### Descrição de projeto:
 O projeto realizado durante o curso consistiu no desenvolvimento de uma interface web para uma site qeu fosse responsivo para tres tripos de dispositivos [Link Projeto Figma](https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1): Smartphone, Tablet e Desktop. O resultado pode ser conferido abaixo:
